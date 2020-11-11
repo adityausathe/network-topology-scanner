@@ -1,5 +1,5 @@
 ##  :warning: Historical Project
-!! This utility is developed as an undergraduate mini-project. Its source-code does not adhere to standard conventions/practices and needs refactoring. I've tried to tag the areas where refactoring is needed, consider going through those before using this.
+This utility is developed as an undergraduate mini-project. Its source-code does not adhere to standard conventions/practices and needs refactoring. I've tried to tag the areas where refactoring is needed, consider going through those before using this.
 
 # Information
 ## Functionality
